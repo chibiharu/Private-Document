@@ -1,5 +1,5 @@
-## Private-Document
-個人成果物を格納するリポジトリ
+## Public-Document
+公開可能な個人成果物を格納するリポジトリ
 
 ## ブランチ運用ルール
 + 更新はmasterブランチに対して直接行う
@@ -9,5 +9,7 @@
 ## コミットの命名規則
 + README.mdの更新
   + Update/README.md
-+ その他の更新
++ 全体の更新
+  + Update/All
++ ディレクトリ毎の更新
   + Update/<ディレクトリ名>
